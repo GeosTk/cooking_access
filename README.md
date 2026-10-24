@@ -1,2 +1,2 @@
 # cooking_access
-Analysiing Cooking Data of Myanmar
+Analysing Cooking Data of Myanmar
